@@ -1,0 +1,32 @@
+[BRG002]
+Buku Tulis A5
+Alat Tulis
+200 3000
+[BRG010]
+Kalkulator Mini
+Elektronik
+25 20000
+[BRG006]
+Kertas HVS A4
+Alat Kantor
+500 400
+[BRG007]
+Map Plastik
+Alat Kantor
+120 2000
+[BRG004]
+Penghapus Putih
+Alat Tulis
+95 1500
+[BRG001]
+Pensil 2B
+Alat Tulis
+150 2000
+[BRG003]
+Pulpen Gel Hitam
+Alat Tulis
+180 4000
+[BRG005]
+Spidol Board Marker
+Alat Kantor
+60 7000
